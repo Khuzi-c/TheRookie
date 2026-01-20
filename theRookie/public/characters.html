@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Officer Roster | The Rookie Hub</title>
+    <meta name="description"
+        content="Browse the complete Wilshire Station officer roster. View detailed profiles of John Nolan, Lucy Chen, Tim Bradford, and the entire Mid-Wilshire Division.">
+    <meta name="keywords" content="The Rookie, LAPD, Officer Roster, John Nolan, Lucy Chen, Tim Bradford, ABC, TV Show">
+    <meta property="og:title" content="Officer Roster | The Rookie Hub">
+    <meta property="og:description"
+        content="Browse the complete Wilshire Station officer roster with detailed character profiles.">
+    <meta property="og:type" content="website">
+    <meta name="twitter:card" content="summary_large_image">
+    <link rel="icon" href="/nolancloseup_imresizer.jpg" type="image/jpeg">
+    <link rel="shortcut icon" href="/nolancloseup_imresizer.jpg" type="image/jpeg">
+    <link rel="stylesheet" href="/style.css">
+    <style>
+        .page-header {
+            background: linear-gradient(rgba(3, 5, 8, 0.7), rgba(3, 5, 8, 1)), url('bannertr.webp');
+            background-size: cover;
+            padding: 15vw 5% 5vw;
+            text-align: center;
+        }
+
+        .page-header h1 {
+            font-size: 4rem;
+            margin-bottom: 1rem;
+        }
+    </style>
+</head>
+
+<body>
+    <nav>
+        <a href="/" class="logo-container">
+            <img src="therookielogo.gif" alt="Rookie Logo" class="logo-gif">
+            <img src="The_Rookie_(American_Broadcasting_Company_television_series_logo).svg" alt="The Rookie"
+                class="logo-svg">
+        </a>
+        <ul class="nav-links">
+            <li><a href="/">Home</a></li>
+            <li><a href="/characters" class="active">Roster</a></li>
+            <li><a href="/episodes">Case Files</a></li>
+            <li><a href="/gallery">Gallery</a></li>
+            <li><a href="/discord">Discord</a></li>
+        </ul>
+        <a href="https://discord.gg/therookie" class="btn-animated">
+            <span style="position: relative; z-index: 1;">JOIN PRECINCT</span>
+        </a>
+    </nav>
+
+    <header class="page-header fade-in">
+        <img src="therookie-Title-card-intro-Gif.webp" alt="The Rookie"
+            style="width: 100%; max-width: 600px; margin-bottom: 2rem; filter: drop-shadow(0 0 20px var(--primary-glow));">
+        <h1>WILSHIRE ROSTER</h1>
+        <p>Current active duty officers and rookies assigned to Wilshire Station.</p>
+        <div style="margin-top: 2rem;">
+            <select id="sortSelect" class="glass" style="padding: 12px 24px; color: white;">
+                <option value="popular">Filter: Activity Priority</option>
+                <option value="az">Filter: Officer Rank A-Z</option>
+            </select>
+        </div>
+    </header>
+
+    <main class="container">
+        <div id="characterGrid" class="grid">
+            <!-- Rendered by JS -->
+        </div>
+    </main>
+
+    <footer>
+        <div class="container" style="padding: 0;">
+            <div class="footer-disclaimer">
+                <div style="margin-bottom: 20px;">
+                    <img src="therookielogo.gif" style="height: 30px; opacity: 0.5; filter: grayscale(1) invert(1);">
+                </div>
+                <p>PROTECT AND SERVE. THIS IS AN UNOFFICIAL FAN DATABASE.</p>
+                <div
+                    style="margin-top: 20px; display: flex; justify-content: center; gap: 30px; font-size: 0.7rem; text-transform: uppercase; letter-spacing: 1px;">
+                    <a href="/terms" style="color: var(--text-secondary); text-decoration: none;">Terms of Service</a>
+                    <a href="/privacy" style="color: var(--text-secondary); text-decoration: none;">Privacy Protocol</a>
+                    <a href="/legal" style="color: var(--text-secondary); text-decoration: none;">Legal Notice</a>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <script src="/app.js"></script>
+</body>
+
+</html>

@@ -1,0 +1,299 @@
+[
+    {
+        "id": "john-nolan",
+        "name": "John Nolan",
+        "rank": "Police Officer III (TO)",
+        "callsign": "7-ADAM-15",
+        "bio": {
+            "short": "A late-blooming cop who turned second chances into a legacy of leadership and survival.",
+            "long": "John Nolan entered the LAPD as its oldest rookie after a life-changing moment in Pennsylvania, where he helped stop an armed bank robbery. Leaving behind his marriage and former life, he moved to Los Angeles and was immediately met with skepticism from superiors and fellow officers who believed he was too old to survive the streets. Nolan endured relentless physical training, emotional isolation, and high-risk patrols that tested both his body and his resolve.\n\nThroughout his career, Nolan survived multiple officer-involved shootings, armed ambushes, and coordinated attacks on Wilshire Station. He has been shot in the line of duty, held at gunpoint during hostage situations, and targeted by criminal organizations seeking revenge against the division. During a station siege, Nolan helped evacuate civilians while returning fire, earning commendations for bravery and tactical awareness.\n\nAs he rose to Field Training Officer, Nolan became known for his unbreakable moral compass. He refused to cover up misconduct, even when doing so nearly ended his career during an internal investigation. His mentorship of Celina Juarez defined his leadership legacy, teaching her how to balance instinct with protocol.\n\nOutside the badge, his relationship with firefighter and Army reservist Bailey Nune placed him at the center of multi-agency emergencies, including terror threats, building collapses, and serial killer hunts. Nolan is now regarded as one of Wilshire Station’s most reliable leaders, representing resilience, integrity, and the belief that second chances can build lasting legacies."
+        },
+        "role": "Field Training Officer",
+        "gear": [
+            "Body Cam",
+            "Taser 7",
+            "Glock 17 Gen 5",
+            "Standard Patrol Kit"
+        ],
+        "images": [
+            "nolan2.jpg",
+            "nolan3.jpg",
+            "nolan-runnning-GIF.gif"
+        ]
+    },
+    {
+        "id": "lucy-chen",
+        "name": "Lucy Chen",
+        "rank": "Police Officer III (UC)",
+        "callsign": "7-ADAM-19",
+        "bio": {
+            "short": "An emotionally resilient undercover officer forged by trauma and fearless intelligence.",
+            "long": "Lucy Chen entered the LAPD with a psychological advantage shaped by growing up under two therapist parents. She quickly gained a reputation for reading emotional shifts in suspects and victims alike.\n\nHer career took a dark turn when she was abducted by a serial killer, buried alive in a sealed barrel, and left to suffocate underground. Believing she would die, Lucy recorded goodbye messages for her loved ones. She was rescued moments before losing consciousness, an event that left deep emotional and psychological scars.\n\nRather than leave the force, Lucy confronted her trauma through therapy, retraining, and intense conditioning. Her resilience and emotional intelligence made her an ideal candidate for undercover work. She infiltrated drug rings, trafficking operations, and violent criminal networks, often living for weeks under false identities.\n\nHer professional relationship with Tim Bradford evolved from a brutal training partnership into a deeply trusted bond, tested by life-or-death missions, emotional fallout, and internal investigations. Lucy is now regarded as one of Wilshire’s most mentally tough and adaptable officers."
+        },
+        "role": "Undercover Specialist",
+        "gear": [
+            "Undercover Wire",
+            "Subway 10-8 Kit",
+            "Standard Service Weapon"
+        ],
+        "images": [
+            "lucychen2.jpg",
+            "lucychen.png"
+        ]
+    },
+    {
+        "id": "tim-bradford",
+        "name": "Tim Bradford",
+        "rank": "Sergeant II (Metro)",
+        "callsign": "7-METRO-10",
+        "bio": {
+            "short": "A Marine-forged leader who commands the most dangerous streets with tactical precision.",
+            "long": "A former U.S. Marine, Tim Bradford entered the LAPD with battlefield discipline and uncompromising standards. As a Training Officer, he became infamous for the 'Bradford Tests,' designed to break rookies down and rebuild them into survivors.\n\nBradford led high-risk operations involving armed gangs, hostage rescues, and organized crime. He was wounded during multiple shootouts and played a key role in counter-terror operations across Los Angeles.\n\nHis transition to Metro placed him at the forefront of the city’s most dangerous tactical missions, including K9 deployments and coordinated raids on criminal strongholds. Though outwardly hardened, his loyalty to his officers and especially Lucy Chen defines his leadership."
+        },
+        "role": "Metro Sergeant",
+        "gear": [
+            "Tactical Vest",
+            "K9 Unit Access",
+            "Custom AR-15 (Metro Spec)"
+        ],
+        "images": [
+            "tim.png",
+            "tim2.jpg"
+        ]
+    },
+    {
+        "id": "wade-grey",
+        "name": "Wade Grey",
+        "rank": "Sergeant II (Station Commander)",
+        "callsign": "WILSHIRE-1",
+        "bio": {
+            "short": "The steady hand that keeps Wilshire Station standing through chaos and crisis.",
+            "long": "Wade Grey has spent decades in the LAPD, witnessing corruption, reform, and tragedy. Initially critical of Nolan’s age and unconventional path, Grey became one of his strongest mentors.\n\nAs Watch Commander, Grey has managed riots, city-wide lockdowns, and coordinated responses to terror threats. He is known for balancing strict adherence to policy with genuine concern for his officers, often shielding them from political pressure.\n\nGrey’s leadership has saved careers, protected whistleblowers, and ensured Wilshire remains one of the most respected divisions in the city."
+        },
+        "role": "Watch Commander",
+        "gear": [
+            "White Shirt Command Kit",
+            "Station Log Access",
+            "Strategic Oversight Radio"
+        ],
+        "images": [
+            "grey.png",
+            "grey2.jpg",
+            "grey3.avif"
+        ]
+    },
+    {
+        "id": "angela-lopez",
+        "name": "Angela Lopez",
+        "rank": "Detective II",
+        "callsign": "7-DET-5",
+        "bio": {
+            "short": "A relentless detective who connects every clue and never lets a case go cold.",
+            "long": "Angela Lopez rose through the ranks as a highly effective Training Officer before earning her detective shield. Known for her sharp instincts, she cracked complex homicide cases involving gang networks, serial offenders, and corrupt officials.\n\nHer life was forever changed when she was kidnapped while pregnant by a criminal mastermind seeking revenge against the LAPD. After a dramatic rescue, Angela returned to duty stronger and more driven than ever.\n\nShe now leads some of Wilshire’s most dangerous investigations, balancing family life with the relentless pursuit of justice."
+        },
+        "role": "Homicide Detective",
+        "gear": [
+            "Detective Badge",
+            "Evidence Collection Kit",
+            "Concealed Carry Holster"
+        ],
+        "images": [
+            "angela.jpg",
+            "angela2.jpg",
+            "angela3.png"
+        ]
+    },
+    {
+        "id": "nyla-harper",
+        "name": "Nyla Harper",
+        "rank": "Detective II",
+        "callsign": "7-DET-8",
+        "bio": {
+            "short": "A deep-cover survivor who turned street instincts into investigative mastery.",
+            "long": "Nyla Harper spent years embedded in dangerous criminal organizations, living under false identities that nearly destroyed her family life. Returning to patrol to regain custody of her daughter, she slowly rebuilt her career.\n\nHer street smarts and undercover experience made her one of Wilshire’s most effective detectives, capable of navigating both criminal networks and legal systems. Nyla has taken down drug empires, corrupt officials, and human trafficking operations."
+        },
+        "role": "Investigative Specialist",
+        "gear": [
+            "Narcotics Field Kit",
+            "Informant Log",
+            "Advanced Surveillance Tools"
+        ],
+        "images": [
+            "nyla.webp",
+            "nyla2.gif",
+            "nyla3.webp"
+        ]
+    },
+    {
+        "id": "aaron-thorsen",
+        "name": "Aaron Thorsen",
+        "rank": "Police Officer II",
+        "callsign": "7-ADAM-05",
+        "bio": {
+            "short": "A former celebrity turned cop fighting to rewrite his public legacy.",
+            "long": "Once a viral social media figure, Aaron Thorsen’s life was shattered when he was falsely accused of murder in France. After being cleared, he joined the LAPD to prove he stood for justice rather than fame.\n\nAaron struggled to be taken seriously by both the public and fellow officers but steadily earned respect through bravery during armed confrontations, disaster responses, and high-risk patrol operations."
+        },
+        "role": "Patrol Officer",
+        "gear": [
+            "Body Cam",
+            "Standard Duty Belt",
+            "Public Relations Liaison Kit"
+        ],
+        "images": [
+            "aaron.jpg"
+        ]
+    },
+    {
+        "id": "celina-juarez",
+        "name": "Celina Juarez",
+        "rank": "Police Officer I",
+        "callsign": "7-ADAM-22",
+        "bio": {
+            "short": "A spiritual-minded rookie learning to balance instinct and law.",
+            "long": "Celina Juarez entered the LAPD believing in intuition, manifestations, and spiritual guidance. Her unconventional methods often clashed with department protocol.\n\nUnder Nolan’s mentorship, she learned how to ground her instincts in evidence-based policing, surviving her first armed encounters, domestic violence calls, and high-speed pursuits."
+        },
+        "role": "Rookie Officer",
+        "gear": [
+            "Rookie Prep Kit",
+            "Intuition Journal",
+            "Standard Issue Glock"
+        ],
+        "images": [
+            "Celina.png"
+        ]
+    },
+    {
+        "id": "smitty",
+        "name": "Smitty",
+        "rank": "Police Officer III",
+        "callsign": "7-ADAM-OFF",
+        "bio": {
+            "short": "A master of avoiding work while somehow surviving every era of the LAPD.",
+            "long": "Smitty has outlasted countless commanders, reforms, and policy changes by mastering the art of doing just enough to stay employed. Despite his laziness, he possesses deep institutional knowledge and knows every loophole in the manual.\n\nIn rare moments, his experience proves invaluable during emergencies, revealing that beneath the humor and avoidance lies a cop who has truly seen it all."
+        },
+        "role": "Veteran Officer",
+        "gear": [
+            "Clipboard (Empty)",
+            "Coffee Mug",
+            "Hidden Nap Spot Map"
+        ],
+        "images": [
+            "smitty.jpg"
+        ]
+    },
+    {
+        "id": "talia-bishop",
+        "name": "Talia Bishop",
+        "rank": "Police Officer III (Former TO)",
+        "callsign": "7-ADAM-07",
+        "bio": {
+            "short": "A by-the-book training officer driven by ambition and integrity.",
+            "long": "Talia Bishop was Nolan’s first Training Officer, known for strict adherence to procedure and high expectations. She pushed Nolan to prove himself at every step.\n\nHer career path eventually led her away from the LAPD and into federal law enforcement, where she continues pursuing justice on a national level."
+        },
+        "role": "Field Training Officer",
+        "gear": [
+            "Body Cam",
+            "Standard Issue Glock",
+            "Training Manual"
+        ],
+        "images": [
+            "talia.jpg"
+        ]
+    },
+    {
+        "id": "jackson-west",
+        "name": "Jackson West",
+        "rank": "Police Officer II (EOW)",
+        "callsign": "7-ADAM-07",
+        "bio": {
+            "short": "A legacy officer whose courage redefined his family’s name.",
+            "long": "The son of Internal Affairs Commander Percy West, Jackson struggled under the weight of expectations. Initially fearful in the field, he grew into a principled and courageous officer.\n\nJackson was killed in the line of duty while protecting his partner during a violent ambush, leaving a lasting legacy of bravery and reform within the department."
+        },
+        "role": "Patrol Officer",
+        "gear": [
+            "Body Cam",
+            "Speed Loaders",
+            "Standard Patrol Kit"
+        ],
+        "images": [
+            "jackson.png"
+        ]
+    },
+    {
+        "id": "bailey-nune",
+        "name": "Bailey Nune",
+        "rank": "Captain (LAFD) / Army Reserve",
+        "callsign": "STATION-127",
+        "bio": {
+            "short": "A multi-skilled first responder forged by fire, combat, and crisis.",
+            "long": "Bailey Nune balances life as a firefighter, Army reservist, and Nolan’s partner. She has responded to natural disasters, terrorist attacks, and urban rescue operations.\n\nHer combat training and emergency response skills have saved countless lives, often placing her in the middle of high-threat scenarios alongside LAPD tactical teams."
+        },
+        "role": "Fire Captain / Army Specialist",
+        "gear": [
+            "LAFD Turnout Gear",
+            "Fire Axe",
+            "Tactical Medkit",
+            "Army Reserve ID"
+        ],
+        "images": [
+            "https://static.wikia.nocookie.net/the-rookie/images/1/14/Bailey_Season_5.jpg"
+        ]
+    },
+    {
+        "id": "zoe-anderson",
+        "name": "Zoe Anderson",
+        "rank": "Captain (EOW)",
+        "callsign": "WILSHIRE-1",
+        "bio": {
+            "short": "A fallen leader whose sacrifice reshaped an entire station.",
+            "long": "Captain Anderson was a former Marine who brought reform, transparency, and accountability to Wilshire Station.\n\nShe was killed while protecting Nolan during a targeted attack, inspiring her officers to uphold her vision of justice and leadership."
+        },
+        "role": "Station Commander",
+        "gear": [
+            "Command Service Weapon",
+            "Tactical Radio",
+            "Precinct Logs"
+        ],
+        "images": [
+            "https://static.wikia.nocookie.net/the-rookie/images/e/e9/Zoe_Andersen_Season_1.jpg"
+        ]
+    },
+    {
+        "id": "wesley-evers",
+        "name": "Wesley Evers",
+        "rank": "DA's Office",
+        "callsign": "COUNSEL",
+        "bio": {
+            "short": "A legal warrior fighting corruption from inside the system.",
+            "long": "Once a high-powered defense attorney, Wesley transitioned into the District Attorney’s Office after witnessing systemic corruption.\n\nHis marriage to Angela Lopez ties him deeply to Wilshire’s investigations, often placing him at the crossroads of law enforcement and legal reform."
+        },
+        "role": "Assistant District Attorney",
+        "gear": [
+            "Legal Briefs",
+            "Courtroom Attire",
+            "Bar Association ID"
+        ],
+        "images": [
+            "https://static.wikia.nocookie.net/the-rookie/images/9/97/Wesley_Season_5.jpg"
+        ]
+    },
+    {
+        "id": "monica-stevens",
+        "name": "Monica Stevens",
+        "rank": "Attorney at Law",
+        "callsign": "ADVERSARY",
+        "bio": {
+            "short": "A legal predator who thrives in the gray areas of justice.",
+            "long": "Monica Stevens is known for exploiting loopholes and defending powerful criminals. Her history with Wesley Evers adds a personal rivalry to her courtroom battles.\n\nShe remains one of Wilshire’s most dangerous non-physical adversaries, capable of dismantling cases without firing a single shot."
+        },
+        "role": "Legal Adversary",
+        "gear": [
+            "Luxury Briefcase",
+            "Encrypted Mobile Device",
+            "Retainer Agreements"
+        ],
+        "images": [
+            "https://static.wikia.nocookie.net/the-rookie/images/f/f3/Monica_Stevens.jpg"
+        ]
+    }
+]
